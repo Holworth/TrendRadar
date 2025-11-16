@@ -113,3 +113,5 @@ platforms:
     name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
+  - id: "investing.com"
+    name: "investing.com"
